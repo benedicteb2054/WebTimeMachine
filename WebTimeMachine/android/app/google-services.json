@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "211596081088",
+    "firebase_url": "https://plenly-b439a-default-rtdb.firebaseio.com",
+    "project_id": "plenly-b439a",
+    "storage_bucket": "plenly-b439a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211596081088:android:3fb6f5d862f5735734ba25",
+        "android_client_info": {
+          "package_name": "com.plenlly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211596081088-gqivlrq36jk2t4kb352grqmikcb4n21l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plenlly",
+            "certificate_hash": "ee0759ca5ff613625294dad5f3de2df23c72be38"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZuSkH1f9nsFOQbZraD0JqTnAWRWrDwWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211596081088-am6c6136bqbm43frp29j9ic0l3762geb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211596081088-v43fkiao0g95mn8s61omcmongvio6sj3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.plenly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
